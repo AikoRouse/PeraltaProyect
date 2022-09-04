@@ -1,0 +1,13 @@
+C:\Users\Ivan\Desktop\pryPeraltaRourePractica1\bin\Debug\pryPeraltaRourePractica1.exe.config
+C:\Users\Ivan\Desktop\pryPeraltaRourePractica1\bin\Debug\pryPeraltaRourePractica1.exe
+C:\Users\Ivan\Desktop\pryPeraltaRourePractica1\bin\Debug\pryPeraltaRourePractica1.pdb
+C:\Users\Ivan\Desktop\pryPeraltaRourePractica1\obj\Debug\pryPeraltaRourePractica1.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\pryPeraltaRourePractica1\obj\Debug\pryPeraltaRourePractica1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\Desktop\pryPeraltaRourePractica1\obj\Debug\pryPeraltaRourePractica1.frmLocalidad.resources
+C:\Users\Ivan\Desktop\pryPeraltaRourePractica1\obj\Debug\pryPeraltaRourePractica1.frmCreadorDeArchivos.resources
+C:\Users\Ivan\Desktop\pryPeraltaRourePractica1\obj\Debug\pryPeraltaRourePractica1.Properties.Resources.resources
+C:\Users\Ivan\Desktop\pryPeraltaRourePractica1\obj\Debug\pryPeraltaRourePractica1.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\pryPeraltaRourePractica1\obj\Debug\pryPeraltaRourePractica1.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\pryPeraltaRourePractica1\obj\Debug\pryPeraltaRourePractica1.exe
+C:\Users\Ivan\Desktop\pryPeraltaRourePractica1\obj\Debug\pryPeraltaRourePractica1.pdb
+C:\Users\Ivan\Desktop\pryPeraltaRourePractica1\obj\Debug\pryPeraltaRourePractica1.frmCultivos.resources
